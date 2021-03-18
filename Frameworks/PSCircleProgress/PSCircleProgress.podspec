@@ -28,7 +28,7 @@ Contains the decomponents for Design System.
 
   s.ios.deployment_target = '13.0'
 
-  s.source_files = 'src/**/*'
+  s.source_files = 'src','Frameworks/PSCircleProgress/src/**/*.{h，m}'
   # s.resources = 'assets/**/*'
 
 end
