@@ -24,7 +24,7 @@ Contains the decomponents for Design System.
   s.homepage         = 'https://github.com/smallSmallWhite/PSCircleProgress'
   s.license          = 'MIT'
   s.author           = 'MIT'
-  s.source           = { :git => "https://github.com/smallSmallWhite/PSCircleProgress.git", :tag => "1.0.0" }
+  s.source           = { :git => "https://github.com/smallSmallWhite/PSCircleProgress.git", :tag => "2.0.0" }
 
   s.ios.deployment_target = '13.0'
 
