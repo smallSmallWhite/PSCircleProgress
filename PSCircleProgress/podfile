@@ -1,0 +1,5 @@
+platform:'ios','13.0'
+target 'PSCircleProgress'do
+pod 'PSCircleProgress', :path => './Frameworks/PSCircleProgress', :inhibit_warnings => false
+end
+
