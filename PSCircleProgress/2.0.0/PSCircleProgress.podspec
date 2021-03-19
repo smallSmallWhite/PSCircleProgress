@@ -22,7 +22,7 @@ Contains the decomponents for Design System.
                        DESC
 
   s.homepage         = 'https://github.com/smallSmallWhite/PSCircleProgress'
-  s.license      = { :type => 'MIT', :file => 'LICENSE/*' }
+  s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = 'MIT'
   s.source           = { :git => "https://github.com/smallSmallWhite/PSCircleProgress.git", :tag => "2.0.0" }
   
